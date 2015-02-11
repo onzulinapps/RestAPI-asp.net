@@ -26,9 +26,12 @@ namespace RestApi.Controllers
 
             return View();
         }
+<<<<<<< HEAD
         public ActionResult Api()
         {
             return View();
         }
+=======
+>>>>>>> 47e19884534cfe28e6ccec83bcabc1a7196af1d2
     }
 }
